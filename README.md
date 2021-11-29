@@ -1,4 +1,4 @@
-# Classify-Abundant-Perfect-Deficient
+# Classify-Abundant-Perfect-Deficient by Gabriel Perez
 This program classifies an integer as deficient, perfect, or abundant as well as prime or composite.
 Integer must be a whole postive number. If you enter a negative number, a negative number with a decimal, or
 a positive number with a decimal, you will get an error and the program will prompt you to try again with positive
